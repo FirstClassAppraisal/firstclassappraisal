@@ -59,6 +59,7 @@ details p{margin:10px 0 0}
 .site-footer a{color:#fff}
 .footer-inner{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
 .footer-brand{font-family:Georgia,serif;font-size:1.2rem;color:#fff;text-transform:uppercase;margin:0 0 6px}
+.logos{display:flex;gap:18px;align-items:center;background:#fff;border-radius:6px;padding:10px 16px;width:max-content;max-width:100%}.logos img{display:block;height:56px;width:auto}
 .badge{display:inline-block;border:1px solid #6f80ad;border-radius:4px;padding:3px 8px;margin:0 6px 6px 0;font-size:.8rem}
 @media(max-width:860px){.grid.three,.grid.four{grid-template-columns:1fr 1fr}.two-col{grid-template-columns:1fr}.footer-inner{grid-template-columns:1fr}.hero h1{font-size:2rem}}
 @media(max-width:560px){.grid.three,.grid.four{grid-template-columns:1fr}body{font-size:16px}.brand-name{font-size:1.3rem}}
